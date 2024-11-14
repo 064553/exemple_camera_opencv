@@ -31,6 +31,13 @@ public class camera extends JFrame {
 	private boolean clicked = false;
     public camera() {
     	//design ui
+    	/*if
+    	 * 
+    	 * 
+    	 * 
+    	 * 
+    	 * 
+    	 */
     	setLayout(null);
     	cameraScreen = new JLabel();
     	cameraScreen.setBounds(0,0,640,480);
