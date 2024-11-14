@@ -35,7 +35,7 @@ public class camera extends JFrame {
     	cameraScreen = new JLabel();
     	cameraScreen.setBounds(0,0,640,480);
     	add(cameraScreen);
-    	
+    	//commentaire
     	btnCapture = new JButton("capture");
     	btnCapture.setBounds(300,480,80,40);
     	add(btnCapture);
