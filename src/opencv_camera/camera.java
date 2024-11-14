@@ -37,6 +37,10 @@ public class camera extends JFrame {
     	 * 
     	 * 
     	 * 
+    	 * 
+    	 * 
+    	 * 77777777777777777
+    	 * 
     	 */
     	setLayout(null);
     	cameraScreen = new JLabel();
